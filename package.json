@@ -4,7 +4,7 @@
   "title": "Search Gule Sider",
   "description": "Search Gule Sider for telephone numbers.",
   "icon": "extension-icon.png",
-  "author": "Marruje",
+  "author": "marruje",
   "license": "MIT",
   "commands": [
     {

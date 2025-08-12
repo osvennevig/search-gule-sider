@@ -13,7 +13,7 @@
     {
       "name": "gulesider",
       "title": "Search Gule Sider",
-      "description": "Phone number lookup in Gule Sider",
+      "description": "Search for phone number or person in Gule Sider",
       "mode": "no-view",
       "arguments": [
         {

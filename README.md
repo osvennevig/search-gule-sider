@@ -1,6 +1,10 @@
 # Search Gule Sider
 
+<<<<<<< HEAD
 Search Gule Sider by telephone number or person's name.
+=======
+Search Gule Sider by telephone number or a persons name.
+>>>>>>> contributions/merge-1776841225745
 
 ## Requirements
 

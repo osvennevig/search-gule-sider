@@ -13,12 +13,20 @@
     {
       "name": "gulesider",
       "title": "Search Gule Sider",
+<<<<<<< HEAD
       "description": "Search Gule Sider for a phone number or person",
+=======
+      "description": "Search for phone number or person in Gule Sider",
+>>>>>>> contributions/merge-1776841225745
       "mode": "no-view",
       "arguments": [
         {
           "name": "query",
+<<<<<<< HEAD
           "placeholder": "Person / Phone Number",
+=======
+          "placeholder": "Person / Phonenumber",
+>>>>>>> contributions/merge-1776841225745
           "required": true,
           "type": "text"
         }

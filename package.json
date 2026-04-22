@@ -4,18 +4,21 @@
   "title": "Search Gule Sider",
   "description": "Search Gule Sider for telephone numbers.",
   "icon": "extension-icon.png",
-  "author": "ole_christian_svennevig",
+  "categories": [
+    "Other"
+  ],
+  "author": "marruje",
   "license": "MIT",
   "commands": [
     {
       "name": "gulesider",
-      "title": "Gule Sider",
-      "description": "Phone number lookup in Gule Sider",
+      "title": "Search Gule Sider",
+      "description": "Search for phone number or person in Gule Sider",
       "mode": "no-view",
       "arguments": [
         {
           "name": "query",
-          "placeholder": "Person / mobilnummer",
+          "placeholder": "Person / Phonenumber",
           "required": true,
           "type": "text"
         }

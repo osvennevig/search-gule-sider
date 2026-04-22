@@ -1,12 +1,6 @@
 import { open, showToast, Toast, getPreferenceValues } from "@raycast/api";
 import { providers } from "./providers";
 
-interface Preferences {
-  useGuleSider: boolean;
-  use1881: boolean;
-  use180: boolean;
-}
-
 export default async function main(props: { arguments: { query: string } }) {
   const query = props.arguments.query || "";
   if (query.trim() === "") {

@@ -5,7 +5,7 @@
   "description": "Search Gule Sider for a phone number or person",
   "icon": "extension-icon.png",
   "categories": [
-    "Other"
+    "Web"
   ],
   "author": "marruje",
   "license": "MIT",
